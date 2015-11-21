@@ -23,7 +23,7 @@ add 한다.
 * `git push origin master ` 로 github에 `push` 한다.
 
 ```
-
+---
 git status
 git add README.md
 git commit
