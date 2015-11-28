@@ -31,3 +31,6 @@ git push origin master
 
 ```
 ---
+
+###day2 
+자바스크립트 기본을 배웃따 함수가중요하당 
