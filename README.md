@@ -41,3 +41,16 @@ git push origin master
 *오늘은 java스크립트 함수를 복습했다
 *콜백함수를 실슴했다.
 *'git'의 간단한 명령에 대해서 알아보았다.
+
+
+
+---
+리퀘스트 바디 유저 네임 하면 유저설정할수있음
+
+#npm install express-generator -g
+
+#express myapp 을치면 받는다
+
+#npm install을치면 또파일받듬
+
+#npm install parse --save  을친다 
